@@ -1,0 +1,5 @@
+{
+  "abuseipdb_api_key": "YOUR_API_KEY_HERE",
+  "otx_api_key": "YOUR_API_KEY_HERE",
+  "virustotal_api_key": "YOUR_API_KEY_HERE"
+}
