@@ -1,1 +1,28 @@
-
+{
+  "indicators": [
+    {
+      "type": "ip",
+      "value": "185.220.101.45",
+      "source": "sample_feed",
+      "description": "Suspicious TOR exit node activity"
+    },
+    {
+      "type": "domain",
+      "value": "malicious-example.com",
+      "source": "sample_feed",
+      "description": "Possible phishing domain"
+    },
+    {
+      "type": "url",
+      "value": "http://malicious-example.com/login",
+      "source": "sample_feed",
+      "description": "Credential harvesting URL"
+    },
+    {
+      "type": "hash",
+      "value": "44d88612fea8a8f36de82e1278abb02f",
+      "source": "sample_feed",
+      "description": "Sample malware hash"
+    }
+  ]
+}
